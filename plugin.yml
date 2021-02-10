@@ -1,0 +1,9 @@
+name: Sell
+main: Umut5886\Sat\Main
+api: 3.9.5
+version: 1.0
+author: Umut5886
+
+commands:
+  sat:
+    description: Sat Ekranı Açarsın
